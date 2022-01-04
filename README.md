@@ -2,4 +2,4 @@
 
 Random Dogs website
 
-url: https://awesome-kirch-5c7a03.netlify.app
+url: https://wizardly-clarke-97c43e.netlify.app/
